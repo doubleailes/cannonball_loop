@@ -13,4 +13,4 @@ Cargo.lock
 # Added by cargo
 
 /target
-sample/raw-1280px-EgliseDeClesles.jpg
+samples/1280px-EgliseDeClesles_watermarked.jpg
